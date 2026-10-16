@@ -1,0 +1,8 @@
+{
+  "name": "Sand.E - Interactive Brain & Puzzle Arena",
+  "description": "An offline interactive Child & Adult IQ puzzle game featuring Child IQ Easy mode, grid deduction, pattern recognition, and local high score leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
